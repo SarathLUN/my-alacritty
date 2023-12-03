@@ -910,16 +910,19 @@
   # Highlight window damage information.
   #highlight_damage: false
 
+import:
+  - ~/.config/alacritty/themes/themes/gruvbox_dark.yaml
+
 window:
-  opacity: 1.0
+  opacity: 0.90
   padding:
     y: 4
     x: 10
-  decorations: buttonless
+  # decorations: buttonless
 font:
   normal:
     family: "MesloLGS NF"
-  size: 16.0
+  size: 12.0
 wingdow.operion_as_alt: false
 
 
