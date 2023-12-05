@@ -6,6 +6,7 @@ font:
   #   y: 9
   normal:
     family: "MesloLGS NF"
+      #family: "JetBrainsMono Nerd Font"
 window:
   padding:
     x: 5
