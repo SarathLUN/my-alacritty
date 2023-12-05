@@ -434,3 +434,9 @@ colors: *gruvbox-dark
 #######################################
 ##       END OF COLOR SCHEMES        ##
 #######################################
+
+# Startup tmux
+shell:
+  program: /opt/homebrew/bin/tmux
+  args:
+    - new-session
