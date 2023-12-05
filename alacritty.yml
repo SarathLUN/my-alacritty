@@ -914,7 +914,7 @@ import:
   - ~/.config/alacritty/themes/themes/gruvbox_dark.yaml
 
 window:
-  opacity: 0.90
+  opacity: 1.0
   padding:
     y: 4
     x: 10
