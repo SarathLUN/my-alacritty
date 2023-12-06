@@ -909,17 +909,3 @@
 
   # Highlight window damage information.
   #highlight_damage: false
-
-window:
-  opacity: 1.0
-  padding:
-    y: 4
-    x: 10
-  decorations: buttonless
-font:
-  normal:
-    family: "MesloLGS NF"
-  size: 16.0
-wingdow.operion_as_alt: false
-
-
