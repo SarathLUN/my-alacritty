@@ -11,12 +11,13 @@ window:
   padding:
     x: 5
     y: 5
-  dimensions:
-    columns: 120
-    lines: 40
+  # dimensions:
+  #   columns: 
+  #   lines: null
   opacity: 1.0
   # decorations: buttonless
   option_as_alt: Both
+  startup_mode: Fullscreen
 
 cursor:
   unfocused_hollow: true
