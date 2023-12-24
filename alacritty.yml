@@ -17,7 +17,7 @@ window:
   opacity: 1.0
   # decorations: buttonless
   option_as_alt: Both
-  startup_mode: Fullscreen
+  startup_mode: Maximized
 
 cursor:
   unfocused_hollow: true
