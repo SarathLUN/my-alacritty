@@ -19,9 +19,9 @@ family = "MesloLGS NF"
 # auto_scroll = true
 history = 2000
 
-# [shell]
-# args = ["new-session"]
-# program = "/opt/homebrew/bin/tmux"
+[shell]
+args = ["new-session"]
+program = "/opt/homebrew/bin/tmux"
 
 [window]
 opacity = 1.0
