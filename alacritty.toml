@@ -15,7 +15,7 @@ TERM = "xterm-256color"
 
 [font]
 normal.family = "MesloLGS Nerd Font Mono"
-size = 16
+size = 18
 
 [scrolling]
 # auto_scroll = true
@@ -28,9 +28,9 @@ program = "/opt/homebrew/bin/tmux"
 [window]
 padding.x = 10
 padding.y = 10
-decorations = "Buttonless"
-opacity = 0.9
-blur = true
+# decorations = "Buttonless"
+opacity = 1.0
+blur = false
 option_as_alt = "Both"
 startup_mode = "Maximized"
 
