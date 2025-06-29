@@ -24,10 +24,6 @@ size = 12
 # auto_scroll = true
 history = 2000
 
-[terminal.shell]
-args = ["new-session"]
-program = "/opt/homebrew/bin/tmux"
-
 [window]
 padding.x = 0
 padding.y = 0
