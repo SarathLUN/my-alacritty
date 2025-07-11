@@ -25,7 +25,7 @@ size = 16
 history = 2000
 
 [window]
-padding.x = 0
+padding.x = 10
 padding.y = 0
 # decorations = "Buttonless"
 opacity = 1.0
