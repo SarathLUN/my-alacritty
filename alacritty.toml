@@ -18,7 +18,7 @@ TERM = "xterm-256color"
 [font]
 normal.family = "MesloLGS Nerd Font Mono"
 #normal.family = "JetBrainsMono Nerd Font"
-size = 16
+size = 12
 
 [scrolling]
 # auto_scroll = true
