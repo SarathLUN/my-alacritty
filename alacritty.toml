@@ -16,7 +16,7 @@ TERM = "xterm-256color"
 [font]
 #normal.family = "MesloLGS Nerd Font Mono"
 normal.family = "JetBrainsMono Nerd Font"
-size = 16
+size = 12
 
 [scrolling]
 # auto_scroll = true
@@ -26,7 +26,7 @@ history = 2000
 padding.x = 10
 padding.y = 0
 # decorations = "Buttonless"
-opacity = 1.0
-blur = false
+opacity = 0.9
+blur = true
 option_as_alt = "Both"
 startup_mode = "Maximized"
