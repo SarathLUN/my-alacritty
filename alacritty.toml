@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/themes/coolnight.toml"]
+import = ["~/.config/alacritty/themes/themes/catppuccin_mocha.toml"]
 
 [cursor]
 unfocused_hollow = true

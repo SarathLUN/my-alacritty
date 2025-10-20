@@ -1,0 +1,5 @@
+# Colors (MSX-like)
+# Notice that MSX used blue as background so [bright] blue and [bright] black
+# are reversed in this theme. Also MSX had only 15 colors (color 0 was
+# transparent) so 'gray' (#CCCCCC) is used two times: both as white and
+# bright black.
