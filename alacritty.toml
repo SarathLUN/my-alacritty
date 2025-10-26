@@ -1,5 +1,5 @@
 [general]
-# import = ["~/.config/alacritty/themes/themes/catppuccin_mocha.toml"]
+import = ["~/.config/alacritty/themes/themes/coolnight.toml"]
 
 [cursor]
 unfocused_hollow = true
@@ -23,10 +23,10 @@ size = 16
 history = 2000
 
 [window]
-padding.x = 2
-padding.y = 0
+padding.x = 10
+padding.y = 10
 # decorations = "Buttonless"
-opacity = 0.9
-blur = true
+opacity = 1.0
+blur = false
 option_as_alt = "Both"
 startup_mode = "Maximized"
